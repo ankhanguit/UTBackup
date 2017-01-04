@@ -22,11 +22,7 @@
         "rootpath": "^0.1.2",
         "nodemailer": "*",
         "socket.io": "*",
-		"likely": "*",
-        "raccoon": "*",
-        "redis" : "*",
         "ger" : "*",
-		"firebase-admin" : "*",
 		"node-gcm" : "*"
     },
     "license": "UIT"
